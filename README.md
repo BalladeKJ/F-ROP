@@ -1,7 +1,7 @@
 这些代码用于实现ROP攻击流量的检测。
 # 实验需求
 - python 3.x
-- TensorFlow 2.x
+- tensorflow 2.x
 # 1. 数据集构建
 输入命令：
 >python3 ./Src/1-replaceGadget.py
